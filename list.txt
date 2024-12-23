@@ -1,0 +1,10 @@
+Bookshelf
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Templates
+Videos
+list.txt
